@@ -1,0 +1,29 @@
+id: PFE664748
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA29018
+  instance_id: http://purl.bdrc.io/resource/IE29018
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྙན་ངག་དང་མངོན་བརྗོད།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P313
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    e4f9c4d275f143a397722119bac5e72c:
+      title: པོད ༡་སྙན་ངག་དང་མངོན་བརྗོད
+      volume_number: 1
+      base_file: UT29018_5741_0000.txt
+      reference: http://purl.bdrc.io/resource/VLAB061BB52DBA90E8
+      image_group: '5741'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW29018
+  - http://purl.bdrc.io/resource/W29018
+  ocr_software: Namsel
+created_at: '2021-12-22T11:11:48.490174'
+last_modified_at: '2021-12-22T11:11:48.490180'
